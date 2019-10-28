@@ -1,0 +1,8 @@
+Key Points:
+    - {} dict(table) use a lot less memory than a [] list
+
+List:
+    - use enumerate in the for loop can retrieve both the index & value
+
+Loop:
+    - when going to larger numbers of operation, for range loop is slower than while loop
